@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-em(*a0hu)vizfg-6+jv7)%p^dgvln_#vqq3a$y&t4lfy3*p8g0
 # DEBUG com valor False = modo produção, pronto para ser publicado.
 DEBUG = False
 
-ALLOWED_HOSTS = ['*'] #
+ALLOWED_HOSTS = ['django1-rtl-b5449307985d.herokuapp.com'] #
 
 
 # Application definition
